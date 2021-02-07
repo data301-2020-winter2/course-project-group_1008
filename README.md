@@ -17,7 +17,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-- Francisco: doing my best
+- Francisco: I'm just doing my best
 - Person 2: one sentence about you!
 - Person 3: one sentence about you!
 

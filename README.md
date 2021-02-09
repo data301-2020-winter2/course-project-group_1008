@@ -19,7 +19,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 - Francisco: I'm just doing my best
 - Zach: here and alive
-- Person 3: one sentence about you!
+- Laura: barely hanging on
 
 ## References
 

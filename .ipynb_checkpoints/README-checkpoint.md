@@ -23,4 +23,4 @@ Our dataset is a list of over 45,000 recorded meteorites, found or observed up t
 
 ## References
 
-{Add your stuff here}
+https://www.kaggle.com/nasa/meteorite-landings

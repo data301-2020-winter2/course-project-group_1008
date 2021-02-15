@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+Although there are many rationales for choosing this particular dataset, including source reliability and a plethora of unique values, our main reason routed from our group's shared interest in space and astrophysics. The three of us share a common passion for space analytics so finding this dataset was a perfect fit. While scoping the data and completing the project, we hope to find out more about meteorite landings and their geographical relationship, as well as how this data has differed over the many years of observation. A possible course of exploration could be to see if the mass of a meteorite has any direct correlation to the geographical location of the meteorite landing. Or possibly if the meteorite landings that were not observed had any relation to geographical location. Conclusively, we truthfully believe that analyzing this dataset will not only be informative and interesting to us but will also be an excellent topic for our user-facing Dashboard, as there is a lot of data to analyze and extract.
 
 ## Describe your dataset in about 150-200 words
 

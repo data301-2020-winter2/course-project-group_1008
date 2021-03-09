@@ -11,11 +11,29 @@ def load(csvpath):
         print("Could not find the file at", csvpath)
     
     
-def process(dataframe): 
-    # This function has two parts, it cleans the data of errors and renames certain variables for readability
-    # Cleans the dataset based on author recommendations:
-    # 1. "any date that is before 860 CE or after 2016 are incorrect; these should actually be BCE years.""
-    # 2. "a few entries have latitude and longitude of 0N/0E (...). 
-    #     Many of these were actually discovered in Antarctica, but exact coordinates were not given. 0N/0E locations should probably be treated as NA."
+def wrangle(dataframe): 
+    # First renamed data and made it all more legible and easily understandable
+    df = dataframe.rename(columns={'name':'Name', 'id':'ID', 'recclass':'Class',
+                                    'mass':'Mass (g)', 'year':'Year', 'fall':'Fall',
+                                    'nametype':'Status', 'reclat':'Latitude', 'reclong':'Longitude'}
+                                   ).replace({'Fall':'Fell',}, 'Observed'
+                                   ).replace({'Status':'relict'}, 'Degraded')
+                                   
+    return df
 
-    pass #TODO
+def prune(dataframe):
+# Cleans the dataset based on author recommendations:
+ # 1. "any date that is before 860 CE or after 2016 are incorrect; these should actually be BCE years.""
+ # 2. "a few entries have latitude and longitude of 0N/0E (...). 
+ #     Many of these were actually discovered in Antarctica, but exact coordinates were not given. 0N/0E locations should probably be treated as NA."
+    
+    df = dataframe.replace({'Latitude': 0.0, 'Longitude':0.0}, np.nan)
+    df.loc[(df['Year'] < 860)|(df['Year'] > 2016)] = np.nan
+    df = df.dropna().reset_index().drop(columns=['index']) #drops all NA values in the dataframe
+    
+    return df
+
+
+#test
+# df = prune(wrangle(load("data/raw/meteorite-landings.csv")))
+# print(df)

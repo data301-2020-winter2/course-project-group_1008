@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Research Question:
 
-
+*To what extent does the location of a meteor affect its found versus seen status?* 
 
 ## Description of Topic:
 
@@ -29,4 +29,10 @@ Our dataset is a list of over **45,000 recorded meteorites**, found or observed 
 
 ## References
 
-https://www.kaggle.com/nasa/meteorite-landings
+Nasa. (2015). Meteorite landings. Retrieved from
+    https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
+
+Nasa. (2016, November 05). Meteorite landings. Retrieved from 
+    https://www.kaggle.com/nasa/meteorite-landings
+  
+

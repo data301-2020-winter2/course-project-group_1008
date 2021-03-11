@@ -17,7 +17,7 @@ Although there are many rationales for choosing this particular dataset, includi
 
 ## Description of Dataset:
 
-Our dataset is a list of over **45,000 recorded meteorites**, found or observed up to 2013. The data was published by NASA but was collected by The Meteorical Society. The dataset contains values for: the name of the meteorite, its weight, its longitude and latitude, the year it was seen or found, and the category of meteorite. Additionally, each meteorite has a unique identifier code and a name given based on where and when it was found, and its composition. Our data seemingly stretches across a period of 250 years; however, a cursory examination of the data shows most of the values have been collected in the last 50 or so years. The data was collected for scientific purposes, to further the study of meteorites. As the data spans a significant number of years, the older data would have been compiled from historical texys, whereas the newer data was likely published directly to the database. Furthermore, some of the older data has been reclassified and the recommended values are given for certain datapoints rather than the original data.
+Our dataset is a list of over **45,000 recorded meteorites**, found or observed up to 2013. The data was published by NASA but was collected by The Meteorical Society. The dataset contains values for: the name of the meteorite, its weight, its longitude and latitude, the year it was seen or found, and the category of meteorite. Additionally, each meteorite has a unique identifier code and a name given based on where and when it was found, and its composition. Our data seemingly stretches across a period of 250 years; however, a cursory examination of the data shows most of the values have been collected in the last 50 or so years. The data was collected for scientific purposes, to further the study of meteorites. As the data spans a significant number of years, the older data would have been compiled from historical texts, whereas the newer data was likely published directly to the database. Furthermore, some of the older data has been reclassified and the recommended values are given for certain datapoints rather than the original data.
 
 ## Team Members
 
@@ -29,10 +29,10 @@ Our dataset is a list of over **45,000 recorded meteorites**, found or observed 
 
 ## References
 
-Nasa. (2015). Meteorite landings. Retrieved from
+Nasa. (2015). Meteorite landings. Retrieved from  
     https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
 
-Nasa. (2016, November 05). Meteorite landings. Retrieved from 
+Nasa. (2016, November 05). Meteorite landings. Retrieved from  
     https://www.kaggle.com/nasa/meteorite-landings
   
 

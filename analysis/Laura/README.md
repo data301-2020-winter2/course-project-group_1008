@@ -11,7 +11,10 @@
 ### Milestone 2:
 
 - *see milestone2.ipynb*
-- issues with importing project functions... 
+- *see project_functions.py*
+- issues with importing project functions but have been solved
+- completed extensive EDA (task 4)
+- analyzed research question with comparisons to EDA visuals 
 
 ---
 

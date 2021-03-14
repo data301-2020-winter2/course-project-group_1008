@@ -11,8 +11,12 @@
 ### Milestone 2:
 
 - *see milestone2.ipynb*
-- issues with importing project functions... 
-
+- *see project_functions.py*
+- issues with importing project functions but have been solved
+- completed extensive EDA (task 4)
+- analyzed research question with comparisons to EDA visuals 
+- completed group EDA and connections to research questions
+- Split data based off of geographical location in order for us to analyze the data on a continental basis
 ---
 
 ### Milestone 3: 

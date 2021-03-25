@@ -9,8 +9,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Research Questions:
 
-*To what extent does the location of a meteor affect its found versus seen status?*
-    *Does the weight or composition of the meteor affect its found versus seen status?*
+*To what extent does the location of a meteor affect its found versus seen status?* <br>
+*Does the weight or composition of the meteor affect its found versus seen status?*
 
 ## Description of Topic:
 

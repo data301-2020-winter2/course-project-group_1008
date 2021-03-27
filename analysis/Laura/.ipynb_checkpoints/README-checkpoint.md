@@ -20,3 +20,5 @@
 ---
 
 ### Milestone 3: 
+
+- addresses project feedback 

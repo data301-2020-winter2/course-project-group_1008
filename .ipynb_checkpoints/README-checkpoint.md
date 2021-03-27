@@ -36,4 +36,9 @@ Nasa. (2015). Meteorite landings. Retrieved from
 Nasa. (2016, November 05). Meteorite landings. Retrieved from  
     https://www.kaggle.com/nasa/meteorite-landings
   
+Washington University. (n.d.). Some Meteorite Statistics. Some Meteorite Information. 
+    https://sites.wustl.edu/meteoritesite/items/some-meteorite-statistics/. 
+    
+Nasa. (2020, May 11). In depth. 
+    https://solarsystem.nasa.gov/asteroids-comets-and-meteors/meteors-and-meteorites/in-depth/. 
 

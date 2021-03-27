@@ -21,4 +21,9 @@
 
 ### Milestone 3: 
 
-- addresses project feedback 
+- addressed project feedback given by TA
+- cleaned up mistakes from milestone 2, which included separating task 4 and task 5 for milestone 2 
+- added references to both the milestone 2 file and readme
+- checked publicity of repository
+- added processed data in preparation for tableau
+- created a repository release

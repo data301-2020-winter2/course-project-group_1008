@@ -26,6 +26,18 @@ Our dataset is a list of over **45,000 recorded meteorites**, found or observed 
 - Zach: *here and alive*
 - Laura: *barely hanging on*
 
+## Dashboard Links:
+
+#### Laura's Dashboard: (best in fullscreen)
+https://us-west-2b.online.tableau.com/#/site/data301/views/Lab7_Laura-Letef_Group_1008/MeteoriteImpactTracking?:iid=7
+
+#### Francisco's Dashboard:
+
+
+#### Zach's Dashboard:
+
+
+
 ---
 
 ## References

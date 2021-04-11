@@ -32,6 +32,7 @@ Our dataset is a list of over **45,000 recorded meteorites**, found or observed 
 https://us-west-2b.online.tableau.com/#/site/data301/views/Lab7_Laura-Letef_Group_1008/MeteoriteImpactTracking?:iid=7
 
 #### Francisco's Dashboard:
+https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346914?:origin=card_share_link
 
 
 #### Zach's Dashboard:

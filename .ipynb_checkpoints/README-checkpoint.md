@@ -10,7 +10,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Research Questions:
 
 *To what extent does the location of a meteor affect its found versus seen status?* <br>
-*Does the weight or composition of the meteor affect its found versus seen status?*
+*Does the weight or composition of the meteor affect its found versus seen status?* <br> <br>
+**Covered in Milestone 4 Presentation:** <br>
+*Does Population Density of an Area Have any Effect on Whether it is Observed Falling?*
 
 ## Description of Topic:
 
@@ -32,12 +34,15 @@ Our dataset is a list of over **45,000 recorded meteorites**, found or observed 
 https://us-west-2b.online.tableau.com/#/site/data301/views/Lab7_Laura-Letef_Group_1008/MeteoriteImpactTracking?:iid=7
 
 #### Francisco's Dashboard:
+https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346914?:origin=card_share_link
 
 
 #### Zach's Dashboard:
+https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346879?:origin=card_share_link
 
+## Link to Presentation:
 
-
+https://youtu.be/1-9XckHlZkw
 ---
 
 ## References
